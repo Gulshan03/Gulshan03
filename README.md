@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Gulshan Mehra
 
-<!--
-**Gulshan03/Gulshan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2023 B.Tech Computer Science Graduate
+- 📊 Currently building hands-on skills in Data Analytics through the **Codebasics Data Analyst Bootcamp** (started July 2026)
+- 🔧 Learning: **SQL, Excel, Power BI, Python**
+- 🎯 Goal: Land a Data Analyst role by end of 2026
+- 🚧 No prior work experience — but actively building real projects here as I learn, module by module
+- 📌 Check back for project repos as I complete each stage of the bootcamp
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/gulshanmehra)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"Turning raw data into clear decisions — one query, one chart at a time."*
